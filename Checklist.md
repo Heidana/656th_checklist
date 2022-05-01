@@ -9,11 +9,11 @@ INTERIOR CHECKS| PLT
 Canopy door|As desired
 **PARK BRAKE**|Set	
 **POWER** levers|**OFF**	
-Eninge **START** switches|**OFF**	
+Engine **START** switches|**OFF**	
 **RTR BRK**|**OFF**	
-**NVS MODE** swtich|**OFF**	
-Standby flight instruments|Check	
-**COMM** panel switches|As desired	
+**NVS MODE** switch|**OFF**	
+Standby flight instruments|Check
+**COMM** panel switches|As desired
 **WIPER** control|**OFF**
 
 BEFORE STARTING APU|PLT
@@ -64,7 +64,7 @@ Current **DATE** and **TIME**|Verify
 *FLT* heading and attitude|Verify
 HDU normal velocities|Verify
 *TSD* **(PP)** button|Select, verify position
-*TSD* **(UTIL)** page| Select EGI with lowest **POSITION CONFIDENCE** value as priamry
+*TSD* **(UTIL)** page| Select EGI with lowest **POSITION CONFIDENCE** value as primary
 
 STARTING ENGINES|PLT
 :---|---:
