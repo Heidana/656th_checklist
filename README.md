@@ -1,0 +1,1 @@
+656th Apache Normnal procedures based on real life checklists considering the limitation of DCS: AH-64D and adhering to the 656th SOP
