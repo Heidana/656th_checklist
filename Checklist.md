@@ -24,10 +24,18 @@ TAIL WHEEL button|VERIFY LOCKED
 EXT LT/INTR LT - PRESS-TO-TEST|CHECK
 MSTR WARN, MSTR CAUT, EUFD|CHECK
 FIRE DET/RXTG panel TEST switch|TEST 1 & 2
-Radio frequencies|AS DESIRED
 
 STARTING APU|PLT
 :---|---:
+APU push button|Press
+EUFD|Monitor
 
+AFTER STARTING APU|PLT
+:---|---:
+Canopy door|Closed
+Radio frequencies|AS DESIRED
+SQUAWK|SET
+EXT LT/INTR LT panel|AS per SOP
+FLT SET page|Configure
 
 
